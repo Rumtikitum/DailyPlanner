@@ -162,4 +162,6 @@ if (currentTime == 5) {
     fourpm.classList.add('past');
     onepm.classList.add('past');
 }
-
+//----------------------------------------
+//End of time code------------------------
+//----------------------------------------
