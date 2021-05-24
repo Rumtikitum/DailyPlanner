@@ -8,7 +8,7 @@
 
 ## Img
 
-   ![](./Develop/images/dailyplannerimg.JPG)
+   ![](./Develop/dailyplannerimg.JPG)
 
 ## Built With...
 
@@ -26,4 +26,4 @@
 
 ## Website Link
 
-[Daily Planner](https://github.com/Rumtikitum/DailyPlanner)
+[Daily Planner](https://rumtikitum.github.io/DailyPlanner/)
